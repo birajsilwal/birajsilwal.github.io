@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7fb45bd25fd24f6cef822532f06271b",
+    "revision": "69c009a1f32cd22d7116e03e5ff9c213",
     "url": "/index.html"
   },
   {
-    "revision": "c88d00578cbd0953b5ed",
+    "revision": "a6a215ed84907702e4f9",
     "url": "/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "4d93109de2f10e22f537",
+    "revision": "2167bb4cedc5b7177a56",
     "url": "/static/css/main.869fc681.chunk.css"
   },
   {
-    "revision": "c88d00578cbd0953b5ed",
-    "url": "/static/js/2.e3ac29bb.chunk.js"
+    "revision": "a6a215ed84907702e4f9",
+    "url": "/static/js/2.9707b298.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.e3ac29bb.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9707b298.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d93109de2f10e22f537",
-    "url": "/static/js/main.0474185f.chunk.js"
+    "revision": "2167bb4cedc5b7177a56",
+    "url": "/static/js/main.3a9669cc.chunk.js"
   },
   {
     "revision": "283f043c4d2548f6a244",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a0b2f2e25b5d3b87befc365c9d6a47af",
     "url": "/static/media/AuctionHouse.a0b2f2e2.png"
+  },
+  {
+    "revision": "fb648f609a6c49e191f77b51e9e1d384",
+    "url": "/static/media/Resume - Biraj Silwal.fb648f60.pdf"
   },
   {
     "revision": "7d1cc921d376d3fe6a6a4b29fecc674a",
